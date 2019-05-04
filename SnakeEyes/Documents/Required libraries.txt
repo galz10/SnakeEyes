@@ -1,0 +1,14 @@
+Language:
+Python 3
+
+
+libraries:
+opencv
+face_recoginition
+
+
+install:
+pip3 install opencv-python
+pip3 install face_recoginition
+
+
